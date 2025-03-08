@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sEIYS1uzsXWm0eLi6l6lWYP5GOWQkeEhJAJ/t1a/nmU=",
+  "Source": "Chaterm.Server",
+  "BasePath": "_content/Chaterm.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

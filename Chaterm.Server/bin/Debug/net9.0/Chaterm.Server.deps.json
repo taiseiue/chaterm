@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Chaterm.Server/1.0.0": {
+        "dependencies": {
+          "Chaterm.Core": "1.0.0",
+          "Chaterm.Core.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "Chaterm.Server.dll": {}
+        }
+      },
+      "Chaterm.Core/1.0.0": {
+        "runtime": {
+          "Chaterm.Core.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Chaterm.Core.Reference/1.0.0.0": {
+        "runtime": {
+          "Chaterm.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chaterm.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chaterm.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chaterm.Core.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

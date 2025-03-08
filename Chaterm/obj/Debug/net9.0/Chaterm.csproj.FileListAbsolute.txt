@@ -1,0 +1,11 @@
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/Chaterm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/Chaterm.AssemblyInfoInputs.cache
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/Chaterm.AssemblyInfo.cs
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/Chaterm.csproj.CoreCompileInputs.cache
+/Users/taiseiue/source/chaterm/Chaterm/bin/Debug/net9.0/Chaterm.Core.deps.json
+/Users/taiseiue/source/chaterm/Chaterm/bin/Debug/net9.0/Chaterm.Core.dll
+/Users/taiseiue/source/chaterm/Chaterm/bin/Debug/net9.0/Chaterm.Core.pdb
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/Chaterm.Core.dll
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/refint/Chaterm.Core.dll
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/Chaterm.Core.pdb
+/Users/taiseiue/source/chaterm/Chaterm/obj/Debug/net9.0/ref/Chaterm.Core.dll
